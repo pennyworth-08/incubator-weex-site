@@ -1,4 +1,11 @@
 export default [
+ {
+    name_CN: '手机淘宝',
+    name_EN: 'taobao',
+    icon: 'https://img.alicdn.com/tfs/TB1jH9bX3mTBuNjy1XbXXaMrVXa-270-271.png',
+    iOS: 'https://itunes.apple.com/cn/app/id387682726?mt=8',
+    android: 'https://play.google.com/store/apps/details?id=com.taobao.taobao&hl=zh_CN'
+  },
   {
     name_CN: '手机淘宝',
     name_EN: 'taobao',
